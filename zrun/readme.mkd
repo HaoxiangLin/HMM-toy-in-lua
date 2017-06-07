@@ -1,0 +1,1 @@
+zrun.lua is a small program which decompress the Gzip file in the command line automatically. So we can use the linux commands to have operations on the Gzip file. 
